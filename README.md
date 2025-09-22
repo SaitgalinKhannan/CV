@@ -14,7 +14,7 @@
 Telegram-ботов с использованием **dev.inmo\:tgbotapi** и веб-разработке на **TypeScript + React**. Имею практический
 опыт разработки для финансовой сферы (сервис обмена валют [Moneylex.ru](https://Moneylex.ru)). Активно изучаю **Go**
 (gorilla/mux, chi, go-ethereum) и технологии блокчейн (Ethereum, Solidity).
-
+Учусь в T-Акакдемии (Т-Банк). Разработка ПО Kotlin.
 ---
 
 ### **Опыт работы**
